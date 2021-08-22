@@ -1,0 +1,16 @@
+C:\ContactRepos\bin\Debug\net5.0\ContactRepos.exe
+C:\ContactRepos\bin\Debug\net5.0\ContactRepos.deps.json
+C:\ContactRepos\bin\Debug\net5.0\ContactRepos.runtimeconfig.json
+C:\ContactRepos\bin\Debug\net5.0\ContactRepos.runtimeconfig.dev.json
+C:\ContactRepos\bin\Debug\net5.0\ContactRepos.dll
+C:\ContactRepos\bin\Debug\net5.0\ref\ContactRepos.dll
+C:\ContactRepos\bin\Debug\net5.0\ContactRepos.pdb
+C:\ContactRepos\obj\Debug\net5.0\ContactRepos.csprojAssemblyReference.cache
+C:\ContactRepos\obj\Debug\net5.0\ContactRepos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ContactRepos\obj\Debug\net5.0\ContactRepos.AssemblyInfoInputs.cache
+C:\ContactRepos\obj\Debug\net5.0\ContactRepos.AssemblyInfo.cs
+C:\ContactRepos\obj\Debug\net5.0\ContactRepos.csproj.CoreCompileInputs.cache
+C:\ContactRepos\obj\Debug\net5.0\ContactRepos.dll
+C:\ContactRepos\obj\Debug\net5.0\ref\ContactRepos.dll
+C:\ContactRepos\obj\Debug\net5.0\ContactRepos.pdb
+C:\ContactRepos\obj\Debug\net5.0\ContactRepos.genruntimeconfig.cache
